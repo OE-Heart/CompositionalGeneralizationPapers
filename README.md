@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/OE-Heart/CompositionalGeneralizationPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-11-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Must-read papers on compositional generalization for natural language processing. The paper list is mainly mantained by [YIxin Ou](https://github.com/OE-Heart).
+Must-read papers on compositional generalization for natural language processing. The paper list is mainly mantained by [Yixin Ou](https://github.com/OE-Heart).
 
 ## Introduction
 
