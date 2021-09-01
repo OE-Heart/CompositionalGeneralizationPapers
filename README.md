@@ -1,6 +1,6 @@
 # CompositionalGeneralizationPapers
 
-![](https://img.shields.io/github/last-commit/OE-Heart/CompositionalGeneralizationPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-11-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/OE-Heart/CompositionalGeneralizationPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Must-read papers on compositional generalization for natural language processing. The paper list is mainly mantained by [Yixin Ou](https://github.com/OE-Heart).
 
@@ -53,4 +53,15 @@ Must-read papers on compositional generalization for natural language processing
 11. **Revisiting Iterative Back-Translation from the Perspective of Compositional Generalization.** AAAI 2021.
 
     *Yinuo Guo, Hualei Zhu, Zeqi Lin, Bei Chen, Jian-Guang Lou, Dongmei Zhang.* [[paper](https://arxiv.org/abs/2012.04276)]
+    
+12. **A Benchmark for Systematic Generalization in Grounded Language Understanding.** NeurIPS 2020.
 
+    *Laura Ruis, Jacob Andreas, Marco Baroni, Diane Bouchacourt, Brenden M. Lake.* [[paper](https://arxiv.org/abs/2003.05161)]
+
+13. **Meta-Learning to *Compositional*ly Generalize.** ACL 2021.
+
+    *Henry Conklin, Bailin Wang, Kenny Smith, Ivan Titov* [[paper](https://arxiv.org/abs/2106.04252)]
+
+14. **Learning to Synthesize Data for Semantic Parsing.** NAACL 2021.
+
+    *Bailin Wang, Wenpeng Yin, Xi Victoria Lin, Caiming Xiong.* [[paper](https://arxiv.org/abs/2104.05827)]
